@@ -80,11 +80,49 @@
     font-weight: 400;
     font-size: 14px;
     color: #444343;
-     margin: 0;
+    margin: 0;
     padding: 0;
     list-style: none;
-   }
-.bullet-style{
-    color:green;
-    weight: 60px;
+}
+
+.bullet-style {
+    color: green;
+
+}
+
+/* my plan section */
+
+.my-plan {
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.plan-title {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.plan-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.plan-info {
+    text-align: center;
+}
+
+.info-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #151414;
+}
+
+.info-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
 }
