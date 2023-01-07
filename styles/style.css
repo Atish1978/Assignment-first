@@ -1,0 +1,90 @@
+* {
+    font-family: 'Work Sans';
+    margin: 0 auto;
+
+}
+
+/* header style */
+
+.banner {
+    display: flex;
+}
+
+.title-text-area {
+    position: absolute;
+    text-align: right;
+    margin: 200px 166px 230px 645px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #151414;
+    padding-left: 150px;
+}
+
+.title-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 32px;
+
+}
+
+.btn-primary {
+    background-color: #F15B22;
+    color: white;
+    border: none;
+    width: 140px;
+    height: 45px;
+    font-size: 16px;
+    border-radius: 8px;
+
+}
+
+/* first seection of the body- My failures of previous year */
+.container {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.section-item {
+    display: flex;
+    gap: 300px;
+}
+
+.section-text-area {
+    position: relative;
+    text-align: left;
+    padding-top: 170px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    padding-right: 100px;
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.failur-reasons {
+    font-weight: 400;
+    font-size: 14px;
+    color: #444343;
+     margin: 0;
+    padding: 0;
+    list-style: none;
+   }
+.bullet-style{
+    color:green;
+    weight: 60px;
+}
